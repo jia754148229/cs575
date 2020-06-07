@@ -35,7 +35,7 @@ int main() {
     
     autoCorrelate(array, sums, size, 1);
     printf("\n\n\n\n\n");
-    autoCorrelate(array, sums, size, 32);
+    autoCorrelate(array, sums, size, 4);
     
     return 0;
 }
